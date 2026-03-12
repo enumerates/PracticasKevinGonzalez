@@ -1,0 +1,15 @@
+.tarjeta{
+    border-style: solid;
+    border-radius: 10px;
+ border-width: 2px;
+    border-color: goldenrod;
+    width: 50%;
+    margin: 20px auto 20px;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+img{
+    width: 75%;
+
+}
